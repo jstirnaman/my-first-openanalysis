@@ -1,4 +1,4 @@
-Epidural corticosteroids for spinal stenosis: a living systematic review
+My First Metanalysis: a living systematic review
 ============================================
 
 **Clinical summary:** This meta-analysis suggests that the clinical intervention is *not clearly effective* at 4-6 weeks. Effect noted by Fukusaki at one week from corticosteroids is similar to the effect of local anesthetics. However, the quality of evidence is *low* ([see methods](https://github.com/openMetaAnalysis/_Methods/blob/master/README.md)) due to imprecision of results and the heterogeneity or inconsistency of results. Additional interpretations may be in the references in the 'Cited by' section below.
